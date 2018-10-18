@@ -1,0 +1,11 @@
+.short-rides {
+  display: none;
+}
+
+.tall-rides {
+  display: none;
+}
+
+.highlight {
+  background-color: yellow;
+}
